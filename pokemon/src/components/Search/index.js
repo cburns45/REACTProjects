@@ -97,6 +97,7 @@ function Search (){
                 <label>
                     <input type="text" onChange={handleChange}
                     placeholder = "search pokemon"/>
+                    <button>submit</button>
                 </label>
             </form>
 

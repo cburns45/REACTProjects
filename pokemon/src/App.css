@@ -66,3 +66,7 @@ input {
   display: block;
   margin: 2rem auto;
 }
+
+button{
+  float: right;
+}
