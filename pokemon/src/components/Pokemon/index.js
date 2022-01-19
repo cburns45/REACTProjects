@@ -1,5 +1,5 @@
 import React from 'react';
-import react from 'react';
+
 
 class Pokemon extends React.Component{
     
